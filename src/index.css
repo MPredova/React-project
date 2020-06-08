@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.btn {
+	padding: 10px;
+	margin: 0 20px;
+}
+
+#userTable {
+	border-collapse: collapse;
+	border: 3px solid gray;
+}
+
+#userTable td,
+#userTable th {
+	border: 1px solid gray;
+	padding: 12px;
+}
+#formStyle {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+}
